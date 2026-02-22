@@ -42,7 +42,3 @@ Currently, I am heavily focused on helping hardware manufacturers prepare for th
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEIN_GITHUB_NAME&show_icons=true&theme=nord&hide_border=true" alt="David's GitHub Stats" />
-</p>
